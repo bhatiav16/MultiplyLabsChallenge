@@ -32,7 +32,6 @@ class Robot:
 
 
 
-    # SAVE STATION XYZ DATA 
     # Saves current state of station and position data
     # Arguments:
     #   a) stationLocs: Name of the file to save current data to. Erases all previous location and profile data
